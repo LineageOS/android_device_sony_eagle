@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_6f0c0295",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 4366
+      },
+      "writtenOn": "2014-12-30T12:12:12Z",
+      "side": 1,
+      "message": "conflicts with http://review.cyanogenmod.org/#/c/83126",
+      "revId": "4d64f2a0d2dde4e907668a3a7cf832f84e447802",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
