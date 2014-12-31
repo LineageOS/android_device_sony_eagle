@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_4d82ee53",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 2147
+      },
+      "writtenOn": "2014-12-31T05:59:06Z",
+      "side": 1,
+      "message": "This is already set in custombootimg as all devices use v2",
+      "revId": "49cec0095ea77038914d04489fa3cf599ce414da",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
